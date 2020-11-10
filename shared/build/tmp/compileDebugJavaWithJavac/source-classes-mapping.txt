@@ -1,0 +1,2 @@
+com/tn8ify/getstartedkmm/android/BuildConfig.java
+ com.tn8ify.getstartedkmm.android.BuildConfig
